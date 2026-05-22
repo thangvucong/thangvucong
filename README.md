@@ -2,15 +2,6 @@
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=V%C5%A9+C%C3%B4ng+Th%E1%BA%AFng"></a>
 
-
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://dev.to/vuthang_2k3"><img width="32px" alt="Dev.to" title="vuthang2k3 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.buymeacoffee.com/vuthang2k3"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
-
-
 <!-- Information myself -->
 <h2>👋 Hi there, Good Day</h2>
 
