@@ -27,9 +27,13 @@ and actively contributing to open-source projects for the community.
 
 <h2>📚 Language and Tools</h2>
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
